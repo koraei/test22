@@ -1,0 +1,59 @@
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\bin\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\bin\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\PBSepartor.Form1.resources
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\PBSepartor.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\PBSepartor.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe.licenses
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\bin\Debug\DundasWinChart.dll
+C:\Documents and Settings\user\Desktop\final\PBSepartor\PBSepartor\bin\Debug\DundasWinChart.xml
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\PBSepartor.Form1.resources
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\PBSepartor.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\PBSepartor.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe.licenses
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\bin\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\bin\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\bin\Debug\DundasWinChart.dll
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\bin\Debug\DundasWinChart.xml
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\PBSepartor\PBSepartor\obj\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\last backup\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\last backup\PBSepartor\PBSepartor\obj\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\bin\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\bin\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\bin\Debug\DundasWinChart.dll
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\bin\Debug\DundasWinChart.xml
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.Form1.resources
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\seprator-last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe.licenses
+G:\uuuuuuuuuuuuuuuuuuuuuuuuu\last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.exe
+G:\uuuuuuuuuuuuuuuuuuuuuuuuu\last\PBSepartor\PBSepartor\obj\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\bin\Debug\PBSepartor.exe
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\bin\Debug\PBSepartor.pdb
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\bin\Debug\DundasWinChart.dll
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\bin\Debug\DundasWinChart.xml
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.Form1.resources
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.exe.licenses
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\bin\Debug\PBSepartor.exe
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\bin\Debug\PBSepartor.pdb
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\bin\Debug\DundasWinChart.dll
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\bin\Debug\DundasWinChart.xml
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\ResolveAssemblyReference.cache
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.Form1.resources
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.Properties.Resources.resources
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.csproj.GenerateResource.Cache
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.exe.licenses
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.exe
+F:\EPS\EKTESHAF\MULTI\PBSepartor-1\PBSepartor\obj\Debug\PBSepartor.pdb
