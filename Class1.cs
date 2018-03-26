@@ -7,8 +7,7 @@
 //{
 //    class Class1
 //    {
-////        //private RadMenu radMenu1;
-////        //private RadMenuItem radMenuItem1;
+////        
 ////        //private RadMenuItem radMenuItem2;
 ////        //private RadMenuItem mChart;
 ////        //private RadMenuItem mDefault;
@@ -40,7 +39,7 @@
 ////       // private RadColorDialog radColorDialog1;
 ////       // private System.Windows.Forms.ListBox lstReport;
 
-
+** added 1
 
 ////       // private RadGridView rdbGrid1;
 
