@@ -58,7 +58,7 @@
 ////        private System.Windows.Forms.CheckBox chkFlwLegend;
 
 
-
+add 2
 ////        private RadButton radButton1;
 ////        private RadButton radButton2;
 ////        private RadButton radButton3;
