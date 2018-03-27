@@ -44,9 +44,6 @@
 ////       // private RadGridView rdbGrid1;
 
 
-////        //private System.Windows.Forms.Label lblSampleRate;
-////        private System.Windows.Forms.Label lblDateTime;
-
 ////        private System.Windows.Forms.GroupBox grpTemp;
 ////        private System.Windows.Forms.GroupBox grpPres;
 ////        private System.Windows.Forms.GroupBox grpLev;
@@ -58,7 +55,7 @@
 ////        private System.Windows.Forms.CheckBox chkFlwLegend;
 
 
-
+add 2 for second commit
 ////        private RadButton radButton1;
 ////        private RadButton radButton2;
 ////        private RadButton radButton3;
