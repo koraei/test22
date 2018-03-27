@@ -16,16 +16,12 @@ namespace PBSepartor
         {
 
             // اجرا شدن یکبار برنامه
-            string CurrentProcessName = Process.GetCurrentProcess().ProcessName;
+            string CurrentProcessNamhghjjjjjjjjjjjjjjjjjjjjjjjj
+			uiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiilee = Process.GetCurrentProcess().ProcessName;
             Process[] Processes = Process.GetProcessesByName(CurrentProcessName);
             if (Processes.Length > 1)
             {
                 MessageBox.Show("this program is Running", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-        }
-    }
-}
+            Ap

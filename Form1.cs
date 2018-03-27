@@ -1,24 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Windows.Forms;
-using Dundas.Charting.WinControl;
-using Microsoft.Office.Interop.Excel;
-using System.Collections.ObjectModel;
-using System.Data.Common;
-using System.Data.OleDb;
-using System.Management;
-using System.Reflection;
-using System.Runtime.InteropServices;
-using Telerik.WinControls;
-using Telerik.WinControls.UI;
-using Telerik.WinControls.UI.Docking;
-
-
+﻿
 after changing other repo
 namespace PBSepartor
 {
@@ -28,46 +8,12 @@ namespace PBSepartor
         private string dbName;
         private string excellName;
         private string connectionString;
-        private int sampleRate;
-        private int queryCounter;
-        private OleDbConnection con;
-        private OleDbDataAdapter da;
-        private DataView dv;
-        private CurrencyManager cm;
-        private System.Data.DataTable dtSensor;
-        private System.Data.DataTable tblData;
-        private string st1;
-        private string st2;
-        private string st3;
-        private string st4;
-        private string st5;
-        private string st6;
-        private string st7;
-        private string st8;
-        private string st9;
-        private string st10;
-        private string st11;
-        private string st12;
-        private string st13;
-        private string st14;
-        private string st15;
-        private string st16;
+       
         private string st17;
         private string st18;
         private string st19;
         private string st20;
-        private string st21;
-        private string st22;
-        private string st23;
-        private string st24;
-        private string param1;
-        private string param2;
-        private string param3;
-        private string param4;
-        private string strOrder;
-        private string cpuID;
-        private DateTime minValue;
-        private DateTime maxValue;
+        pr
         private bool IsfileOpen;
         private string strSelectCommand;
         private Form1.stateProgram stProgramm;
@@ -106,8 +52,8 @@ namespace PBSepartor
             return str;
         }
 
-
-        public bool CheckDellID()
+shrterkljkl
+rtkl;jkjhwerhwejklrjhkwer
         {
             string str = string.Empty;
             foreach (ManagementObject managementObject in new ManagementClass("Win32_Processor").GetInstances())
