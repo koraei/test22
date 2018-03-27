@@ -44,15 +44,13 @@ add 22
 
 
 ////        private System.Windows.Forms.GroupBox grpTemp;
-////        private System.Windows.Forms.GroupBox grpPres;
-////        private System.Windows.Forms.GroupBox grpLev;
-////        private System.Windows.Forms.GroupBox grpFlw;
+////        priupBox grpFlw;
 
 ////        private System.Windows.Forms.CheckBox chkTmpLegend;
 ////        private System.Windows.Forms.CheckBox chkPresLegend;
 ////        private System.Windows.Forms.CheckBox chkLevLegend;
 ////        private System.Windows.Forms.CheckBox chkFlwLegend;
-
+lion 3
 
 add 2 for second commit
 ////        private RadButton radButton1;
