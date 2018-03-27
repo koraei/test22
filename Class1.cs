@@ -1,8 +1,13 @@
-﻿kyuhkuy7463895
-09468065pospofd
-disfioguiort
-04689046
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
 
+//namespace PBSepartor
+//{
+//    class Class1
+//    {
+////        
 ////        //private RadMenuItem radMenuItem2;
 ////        //private RadMenuItem mChart;
 ////        //private RadMenuItem mDefault;
@@ -43,7 +48,96 @@ add 22
 
 ////        private System.Windows.Forms.CheckBox chkTmpLegend;
 ////        private System.Windows.Forms.CheckBox chkPresLegend;
-////        private System.Windows.Forms.CheckBox chkLevL
+////        private System.Windows.Forms.CheckBox chkLevLegend;
+////        private System.Windows.Forms.CheckBox chkFlwLegend;
+lion 3
+
+add 2 for second commit
+////        private RadButton radButton1;
+////        private RadButton radButton2;
+////        private RadButton radButton3;
+
+
+////        private RadLabel radLabel1;
+////        private RadLabel radLabel2;
+////        private RadLabel radLabel3;
+      
+
+
+////        //private RadSpinEditor numStepChart;
+////        //private RadDateTimePicker dtFrom;
+////        //private RadDateTimePicker dtTo;
+
+////        //private RadSpinEditor numHH;
+////        //private RadSpinEditor numSS;
+////        //private RadSpinEditor numMM;
+
+////        //private RadTextBox txtPosition;
+////        //private RadTextBox txtComment;
+////        //private RadTextBox txtRow;
+
+
+////        private System.Windows.Forms.Label label1;
+////        private System.Windows.Forms.Label label2;
+////        private System.Windows.Forms.Label label3;
+////        private System.Windows.Forms.Label label16;
+////        private System.Windows.Forms.Label label20;
+////        private System.Windows.Forms.Label label21;
+////        private System.Windows.Forms.Label label22;
+      
+
+////        //private RadButton btnChangeCaption;
+////        //private RadButton btnDefaultCaption;
+////        //private RadButton btnRunQuery;
+////        //private RadButton btnBindToChart;
+////        //private RadButton btnExport;
+////        //private RadButton btnSave;
+////        //private RadButton btnRefresh;
+
+ 
+////        private RadTextBox txtS1;
+////        private RadTextBox txtS2;
+////        private RadTextBox txtS3;
+////        private RadTextBox txtS4;
+////        private RadTextBox txtS5;
+////        private RadTextBox txtS6;
+////        private RadTextBox txtS7;
+////        private RadTextBox txtS8;
+////        private RadTextBox txtS9;
+////        private RadTextBox txtS10;
+////        private RadTextBox txtS11;
+////        private RadTextBox txtS12;
+////        private RadTextBox txtS13;
+////        private RadTextBox txtS14;
+////        private RadTextBox txtS15;
+////        private RadTextBox txtS16;
+////        private RadTextBox txtS17;
+////        private RadTextBox txtS18;
+////        private RadTextBox txtS19;
+////        private RadTextBox txtS20;
+////        private RadTextBox txtS21;
+////        private RadTextBox txtS22;
+////        private RadTextBox txtS23;
+////        private RadTextBox txtS24;
+             
+        
+   
+////        private RadCheckBox chkS1;
+////        private RadCheckBox chkS2;
+////        private RadCheckBox chkS3;
+////        private RadCheckBox chkS4;
+////        private RadCheckBox chkS5;
+////        private RadCheckBox chkS6;
+////        private RadCheckBox chkS7;
+////        private RadCheckBox chkS8;
+////        private RadCheckBox chkS9;
+////        private RadCheckBox chkS10;
+////        private RadCheckBox chkS11;
+////        private RadCheckBox chkS12;
+////        private RadCheckBox chkS13;
+////        private RadCheckBox chkS14;
+////        private RadCheckBox chkS15;
+////        private RadCheckBox chkS16;
 ////        private RadCheckBox chkS17;
 ////        private RadCheckBox chkS18;
 ////        private RadCheckBox chkS19;
