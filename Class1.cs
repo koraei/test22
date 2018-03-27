@@ -20,23 +20,9 @@ New branch mybranch 2
 ////        //private DocumentWindow toolWindowMessage;
 ////        // private System.Windows.Forms.Label lblName;
         
-                            
-////       // private Dundas.Charting.WinControl.Chart chartPres;
-////        //private Dundas.Charting.WinControl.Chart chartTemp;
-////        //private Dundas.Charting.WinControl.Chart chartLev;
-////        //private Dundas.Charting.WinControl.Chart chartFlw;
-////       // private RadColorDialog radColorDialog1;
-////       // private System.Windows.Forms.ListBox lstReport;
 
-** added 1
 
-////       // private RadGridView rdbGrid1;
-New branch mybranch 2
-****************************************
-New branch mybranch 2
-
-*******************
-New branch mybranch 2
+******************* New branch mybranch 23 *******************
 
 
 ////        private System.Windows.Forms.GroupBox grpTemp;
@@ -46,50 +32,9 @@ New branch mybranch 2
 ////        private System.Windows.Forms.CheckBox chkPresLegend;
 ////        private System.Windows.Forms.CheckBox chkLevLegend;
 ////        private System.Windows.Forms.CheckBox chkFlwLegend;
-lion 3
-
-add 2 for second commit
-////        private RadButton radButton1;
-////        private RadButton radButton2;
-////        private RadButton radButton3;
-
-
-////        private RadLabel radLabel1;
-////        private RadLabel radLabel2;
-////        private RadLabel radLabel3;
-      
-
-
-////        //private RadSpinEditor numStepChart;
-////        //private RadDateTimePicker dtFrom;
-////        //private RadDateTimePicker dtTo;
-
-////        //private RadSpinEditor numHH;
-////        //private RadSpinEditor numSS;
-////        //private RadSpinEditor numMM;
-
-////        //private RadTextBox txtPosition;
-////        //private RadTextBox txtComment;
-////        //private RadTextBox txtRow;
-
-
-////        private System.Windows.Forms.Label label1;
-////        private System.Windows.Forms.Label label2;
-////        private System.Windows.Forms.Label label3;
-////        private System.Windows.Forms.Label label16;
-////        private System.Windows.Forms.Label label20;
-////        private System.Windows.Forms.Label label21;
-////        private System.Windows.Forms.Label label22;
-      
-
-////        //private RadButton btnChangeCaption;
-////        //private RadButton btnDefaultCaption;
-////        //private RadButton btnRunQuery;
-////        //private RadButton btnBindToChart;
-////        //private RadButton btnExport;
-////        //private RadButton btnSave;
-////        //private RadButton btnRefresh;
-
+******************* New branch mybranch 23 *******************
+******************* New branch mybranch 23 *******************
+******************* New branch mybranch 23 *******************
  
 ////        private RadTextBox txtS1;
 ////        private RadTextBox txtS2;
