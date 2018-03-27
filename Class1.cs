@@ -25,7 +25,9 @@
 ////        //private RadMenuItem mOpen;
 ////        //private RadMenuItem mExport;
 ////        //private RadMenuItem mExit;
-////        //pri
+////        //private RadMenuItem mAbout;
+////        //private RadDock radDock1;
+////        //private RadPanel radPanel1;
 ////        //private DocumentWindow toolWindowMessage;
 ////        // private System.Windows.Forms.Label lblName;
         
@@ -38,7 +40,6 @@
 ////       // private System.Windows.Forms.ListBox lstReport;
 
 ** added 1
-add 22
 
 ////       // private RadGridView rdbGrid1;
 
