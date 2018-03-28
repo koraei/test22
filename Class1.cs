@@ -42,6 +42,7 @@ New branch mybranch 2
 ////        private System.Windows.Forms.CheckBox chkFlwLegend;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ******************* New branch mybranch 23 *******************
 ******************* New branch mybranch 23 *******************
 ******************* New branch mybranch 23 *******************
@@ -52,6 +53,9 @@ New branch mybranch 2
 gkljsfdlk
 New branch mybranch 21
 lion 3
+=======
+
+>>>>>>> parent of 0116373... lion 3
 =======
 
 >>>>>>> parent of 0116373... lion 3
