@@ -25,24 +25,7 @@ namespace PBSepartor
     public partial class Form1 : Form
     {
         #region VAR
-        private string dbName;
-        private string excellName;
-        private string connectionString;
-        private int sampleRate;
-        private int queryCounter;
-        private OleDbConnection con;
-        private OleDbDataAdapter da;
-        private DataView dv;
-        private CurrencyManager cm;
-        private System.Data.DataTable dtSensor;
-        private System.Data.DataTable tblData;
-        private string st1;
-        private string st2;
-        private string st3;
-        private string st4;
-        private string st5;
-        private string st6;
-        private string st7;
+        p
         private string st8;
         private string st9;
         private string st10;
@@ -106,6 +89,10 @@ namespace PBSepartor
             return str;
         }
 
+fhafkljshdjkhaklsjfd
+aghsdfhjghjgfdas
+afiuiuewyriquy
+ashdkjhkf
 
         public bool CheckDellID()
         {
@@ -309,47 +296,9 @@ namespace PBSepartor
             this.addSeries(this.ChartFlowRate, "p1", this.btnP1.BackColor);
         }
 
-        private void settingChartcustom1()
-        {
-            this.setChart(this.chartCustom1);
-            this.addSeries(this.chartCustom1, "s17", this.btnS17.BackColor);
-            this.addSeries(this.chartCustom1, "s18", this.btnS18.BackColor);
-            this.addSeries(this.chartCustom1, "s19", this.btnS19.BackColor);
-            this.addSeries(this.chartCustom1, "s20", this.btnS20.BackColor);
-        }
-
-        private void settingChartcustom2()
-        {
-            this.setChart(this.chartCustom2);
-            this.addSeries(this.chartCustom2, "s21", this.btnS21.BackColor);
-            this.addSeries(this.chartCustom2, "s22", this.btnS22.BackColor);
-            this.addSeries(this.chartCustom2, "s23", this.btnS23.BackColor);
-            this.addSeries(this.chartCustom2, "s24", this.btnS24.BackColor);
-        }
-
-
-        private void setChart(Dundas.Charting.WinControl.Chart myChart)
-        {
-            try
-            {
-
-                myChart.ChartAreas[0].AxisY.LabelStyle.Enabled = true;
-                myChart.ChartAreas[0].AxisY.IntervalAutoMode = IntervalAutoMode.FixedCount;
-                myChart.ChartAreas[0].AxisY.MajorGrid.Enabled = true;
-                myChart.ChartAreas[0].AxisY.MajorGrid.LineColor = Color.FromArgb(110, 110, 110);
-                myChart.ChartAreas[0].AxisY.MajorTickMark.Enabled = false;
-                myChart.ChartAreas[0].AxisY.MinorTickMark.Enabled = false;
-
-                myChart.BackColor = Color.Transparent;
-                myChart.ChartAreas[0].BackColor = Color.White;
-                myChart.ChartAreas[0].Position.Auto = true;
-                myChart.ChartAreas[0].InnerPlotPosition.Auto = true;
-                myChart.ChartAreas[0].AxisX.LabelStyle.Enabled = true;
-                myChart.ChartAreas[0].AxisX.LabelStyle.ShowEndLabels = true;
-                myChart.ChartAreas[0].AxisX.LabelStyle.FontColor = Color.Black;
-                myChart.ChartAreas[0].AxisX.IntervalAutoMode = IntervalAutoMode.VariableCount;
-                myChart.ChartAreas[0].AxisX.IntervalType = DateTimeIntervalType.Seconds;
-                myChart.ChartAreas[0].AxisX.LabelStyle.Format = "HH:mm:ss\nyyyy/MM/dd";
+        agrhreh\
+		asdfuiouaoisfd
+		asdjklfljas
                 myChart.ChartAreas[0].AxisX.LabelsAutoFitStyle = LabelsAutoFitStyle.IncreaseFont | LabelsAutoFitStyle.DecreaseFont | LabelsAutoFitStyle.WordWrap;
                 myChart.ChartAreas[0].AxisX.Minimum = this.minValue.ToOADate();
                 myChart.ChartAreas[0].AxisX.Maximum = this.maxValue.ToOADate();
