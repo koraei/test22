@@ -33,10 +33,12 @@ New branch mybranch 2
 **********
 >>>>>>> mybranch21
 
+This line is added on git 2 directory
+rhetri)))))))))))))
 
-////        private System.Windows.Forms.GroupBox grpTemp;
-////        private System.Windows.Forms.GroupBox grpPres;
-////        private System.Windows.Forms.GroupBox grpLev;
+
+
+.GroupBox grpLev;
 ////        private System.Windows.Forms.GroupBox grpFlw;
 
 ////        private System.Windows.Forms.CheckBox chkTmpLegend;
