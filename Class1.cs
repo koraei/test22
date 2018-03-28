@@ -32,12 +32,15 @@ New branch mybranch 2
 
 
 ////        private System.Windows.Forms.GroupBox grpTemp;
-////        priupBox grpFlw;
+////        private System.Windows.Forms.GroupBox grpPres;
+////        private System.Windows.Forms.GroupBox grpLev;
+////        private System.Windows.Forms.GroupBox grpFlw;
 
 ////        private System.Windows.Forms.CheckBox chkTmpLegend;
 ////        private System.Windows.Forms.CheckBox chkPresLegend;
 ////        private System.Windows.Forms.CheckBox chkLevLegend;
 ////        private System.Windows.Forms.CheckBox chkFlwLegend;
+<<<<<<< HEAD
 <<<<<<< HEAD
 ******************* New branch mybranch 23 *******************
 ******************* New branch mybranch 23 *******************
@@ -49,6 +52,9 @@ New branch mybranch 2
 gkljsfdlk
 New branch mybranch 21
 lion 3
+=======
+
+>>>>>>> parent of 0116373... lion 3
 
 add 2 for second commit
 ////        private RadButton radButton1;
